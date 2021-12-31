@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="home">
     <router-view/>
   </div>
 </template>
@@ -7,7 +7,7 @@
 <script lang="ts">
 import Vue from 'vue'
 export default Vue.extend({
-  name: ''
+  name: 'homeIndex'
 })
 </script>
 
